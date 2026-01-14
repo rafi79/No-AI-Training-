@@ -209,10 +209,10 @@ def main():
         st.markdown("""
         **Tested against:**
         - ✅ ChatGPT
-        - ✅ Claude
-        - ✅ Gemini
-        - ✅ Mistral
-        - ✅ DeepSeek
+        - ✅ Kimi
+        - ✅ Qwen
+        - ✅ Manus
+        - ✅ Perplexity
         - ✅ Other AI tools
         """)
         
