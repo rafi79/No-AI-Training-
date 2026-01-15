@@ -330,7 +330,7 @@ def main():
     )
     
     st.title("🛡️ PDF Adversarial Protector v3.0")
-    st.markdown("### Enhanced protection for 4-5 page research papers")
+    st.markdown("### Enhanced protection for research papers")
     
     st.info("✨ **NEW**: Visual adversarial layer + 4× protection density for small PDFs!")
     
